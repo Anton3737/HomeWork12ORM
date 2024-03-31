@@ -1,0 +1,20 @@
+
+¦
+java:S14881"^Immediately return this expression instead of assigning it to the temporary variable "client".(ò¨Òäøÿÿÿÿ8¾´¯é1J$05a7dd74-bbae-4671-87cc-462714608ae1
+¦
+java:S14887"^Immediately return this expression instead of assigning it to the temporary variable "planet".(¶ìÚÎûÿÿÿÿ8¿´¯é1J$4456edf1-e66a-47a8-ae96-9fcf07d9defb
+]
+java:S1220""Move this file to a named package.8¿´¯é1J$bc682daf-b67e-4c10-85d7-bf758a13def6
+m	java:S106"+Replace this use of System.out by a logger.(ŒÜÅç8õ‘õé1J$955008ed-0775-4b99-929e-cceaf192e57a
+ƒ	java:S125
+"<This block of commented-out lines of code should be removed.(ï™ò¾üÿÿÿÿ8Ãñ÷é1J$eb5ecb14-ec3c-4d34-a264-67ee36d06a12
+r	java:S106"+Replace this use of System.out by a logger.(×¹³ùÿÿÿÿ8ö‘õé1J$f0bb44ff-2bad-4968-8213-3f31eb0a33ac
+r	java:S106"+Replace this use of System.out by a logger.(…ûŞÆúÿÿÿÿ8ö‘õé1J$b25e2031-27c4-476f-8e10-def34003687f
+r	java:S106!"+Replace this use of System.out by a logger.(×¹³ùÿÿÿÿ8ö‘õé1J$cc7f264f-67de-4721-b2d4-35098e75c550
+r	java:S106$"+Replace this use of System.out by a logger.(…ûŞÆúÿÿÿÿ8÷‘õé1J$e9fc2b30-c310-4074-97a9-a046be577ab5
+r	java:S106%"+Replace this use of System.out by a logger.(×¹³ùÿÿÿÿ8÷‘õé1J$fa720e61-092a-4d5d-82d9-36d0f0e2d9cd
+r	java:S106("+Replace this use of System.out by a logger.(×¹³ùÿÿÿÿ8ø‘õé1J$9d086de8-f043-43ee-aa5e-4195c0ebdc89
+L	java:S106+"+Replace this use of System.out by a logger.(×¹³ùÿÿÿÿ8·ûé1
+]	java:S125*"<This block of commented-out lines of code should be removed.(şûÖ¿şÿÿÿÿ8·ûé1
+z
+java:S11440"2Remove this unused private "prepareClient" method.(Œ§„ÿÿÿÿÿ8Èñ÷é1J$02669712-bc51-4cb0-a774-d490d87b893b

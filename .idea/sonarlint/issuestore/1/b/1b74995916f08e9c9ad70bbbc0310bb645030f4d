@@ -1,0 +1,13 @@
+
+	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¹Ãñé1J$c23fdb77-5341-41fb-8db4-baada21f37ae
+ˆ	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(Ç®Ï8ºÃñé1J$878af563-3ecb-4c13-acc0-fe0a102aff03
+	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(±”Áùÿÿÿÿ8ºÃñé1J$f05ef085-ddf4-4dc0-9bf7-1613c5403e5c
+	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ºÃñé1J$43ba74d5-ecdf-456e-9406-d941659214bb
+	java:S112V"FDefine and throw a dedicated exception instead of using a generic one.(¶º©ùÿÿÿÿ8ºÃñé1J$7aad74fc-10f5-4902-9436-6d51f1ca0373
+	java:S112|"FDefine and throw a dedicated exception instead of using a generic one.(öÓì÷øÿÿÿÿ8³å¤é1J$959a1e22-0052-4d11-9f06-0dd8394fb988
+˜	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢äéÏùÿÿÿÿ8»Ãñé1J$4b1f10d2-9c26-4fcf-8694-8961d96fdb87
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¼¦ıÿÿÿÿÿ8ÕÃñé1J$348af9d1-16e5-4fd7-96df-df5fa21abb62
+
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(¸àŸçùÿÿÿÿ8ÕÃñé1J$f8464eaa-182d-45e5-908f-f4222e3eb08a
+r	java:S106w"+Replace this use of System.out by a logger.(ôÏáûÿÿÿÿ8çÃñé1J$2459d8dc-524d-4179-8057-20f455e4e5d3

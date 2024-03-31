@@ -1,0 +1,22 @@
+
+ˆ	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ü«Òé8ÈŸÉçè1J$97318814-bb6e-4c15-bbdd-620bf29a4825
+ˆ	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(ª£±ˆ8ÉŸÉçè1J$6cf9d53f-75e5-40bc-b7d4-7a00ad197b51
+	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÉŸÉçè1J$35b9dccb-61c1-4f26-8d7b-c92cf50d6368
+	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÊŸÉçè1J$55037acf-3761-4ddc-a48d-0cc96c2ce600
+	java:S112l"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÊŸÉçè1J$1492c312-0dfd-42ec-9731-5c7b0fc44a03
+µ
+java:S11926"mDefine a constant instead of duplicating this literal "Sorry, unable to find application.properties" 3 times.(¦ë›Úÿÿÿÿÿ8ÌŸÉçè1J$5f0902ef-5c4b-4f7a-a233-2c6705de17c6
+Ÿ
+java:S11921"WDefine a constant instead of duplicating this literal "application.properties" 3 times.(¿ÎÉëşÿÿÿÿ8ÍŸÉçè1J$4542b6a0-b176-4264-80c9-2e48bf38ff79
+–
+java:S3008"SRename this field "INSTANCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¦«8òŸÉçè1J$3b1f0a29-5a3d-4ff5-848a-3faadc4b62c2
+u
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8ûŸÉçè1J$6e290ec6-a04f-476e-82a3-4ea0882cc4ae
+o
+java:S3010"'Remove this assignment of "connection".(ÊÁ¢êüÿÿÿÿ8ÿŸÉçè1J$5b7898e3-00bf-4376-afc2-2cc362ef8aed
+m	java:S106!"+Replace this use of System.out by a logger.(ÕÌÏÃ8ƒ Éçè1J$2f273617-a0f2-4cf8-9de0-2c5ed1f520a4
+~	java:S125 "<This block of commented-out lines of code should be removed.(Ã¶‘Š8®˜Øçè1J$e4c8add1-76cc-4672-9a9e-e17a28affb60
+m	java:S106#"+Replace this use of System.out by a logger.(ÃÑÙø8„ Éçè1J$bd856c3f-6496-462f-9ea8-ab3b9504a564
+r	java:S1066"+Replace this use of System.out by a logger.(¦ë›Úÿÿÿÿÿ8‘ Éçè1J$8df481a4-7491-4c72-9b25-775179a60f84
+r	java:S106P"+Replace this use of System.out by a logger.(¦ë›Úÿÿÿÿÿ8› Éçè1J$54da0cfb-312d-4f8b-b09a-573a9af54191
+r	java:S106c"+Replace this use of System.out by a logger.(¦ë›Úÿÿÿÿÿ8  Éçè1J$f68aa1d2-fa30-4394-9c99-2374e9e7eb94
