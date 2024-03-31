@@ -1,12 +1,12 @@
-import crud.ClientDaoImpl;
-import crud.PlanetDaoImpl;
+import crud.ClientCrudService;
+import crud.PlanetCrudService;
 import entity.Client;
 import entity.Planet;
 
 public class Main {
     public static void main(String[] args) {
 
-        ClientDaoImpl dao = new ClientDaoImpl();
+        ClientCrudService dao = new ClientCrudService();
 //        dao.createClient(prepareClient(8, "Anton"));
 //
 //        System.out.println(dao.getClientById(14));
@@ -24,7 +24,7 @@ public class Main {
         System.out.println(dao.getAllClients().toString());
 
 
-        PlanetDaoImpl planetDao = new PlanetDaoImpl();
+        PlanetCrudService planetDao = new PlanetCrudService();
         System.out.println(planetDao.getAllPlanet());
 
         planetDao.createPlanet(preparePlanet("SUN", "SUN"));
