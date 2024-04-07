@@ -1,7 +1,12 @@
 import crud.ClientCrudService;
 import crud.PlanetCrudService;
+import crud.TicketCrudService;
 import entity.Client;
 import entity.Planet;
+import entity.Ticket;
+
+import java.time.LocalDateTime;
+import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
@@ -21,27 +26,56 @@ public class Main {
 //        System.out.println(dao.getAllClients().toString());
 //
 //        dao.deleteClientById(12l);
-        System.out.println(dao.getAllClients().toString());
+//        System.out.println(dao.getAllClients().toString());
+//
+//
+//        PlanetCrudService planetDao = new PlanetCrudService();
+//        System.out.println(planetDao.getAllPlanet());
+//
+//        planetDao.createPlanet(preparePlanet("SUN", "SUN"));
+//        System.out.println(planetDao.getPlanetById("SUN"));
+//
+//        System.out.println(planetDao.getAllPlanet());
+//
+//        planetDao.updatePlanet(preparePlanet("SUN", "SONECHCO"));
+//        System.out.println(planetDao.getPlanetById("SUN"));
+//        System.out.println(planetDao.getAllPlanet());
+//
+//        planetDao.deletePlanetById("SUN");
+//        System.out.println(planetDao.getAllPlanet());
+//
+////        planetDao.createPlanet(preparePlanet("PLUTO","PLUTON - one love"));
+//        System.out.println(planetDao.getAllPlanet());
 
 
-        PlanetCrudService planetDao = new PlanetCrudService();
-        System.out.println(planetDao.getAllPlanet());
+        ClientCrudService clientCrudService = new ClientCrudService();
+        TicketCrudService ticketCrudService = new TicketCrudService();
 
-        planetDao.createPlanet(preparePlanet("SUN", "SUN"));
-        System.out.println(planetDao.getPlanetById("SUN"));
 
-        System.out.println(planetDao.getAllPlanet());
+//        Ticket ticketCrudService1 = new TicketCrudService().getTicketById(12);
+//        System.out.println(ticketCrudService1);
 
-        planetDao.updatePlanet(preparePlanet("SUN", "SONECHCO"));
-        System.out.println(planetDao.getPlanetById("SUN"));
-        System.out.println(planetDao.getAllPlanet());
 
-        planetDao.deletePlanetById("SUN");
-        System.out.println(planetDao.getAllPlanet());
+//        clientCrudService.createClient(client);
+        System.out.println(clientCrudService.getClientById(12));
 
-//        planetDao.createPlanet(preparePlanet("PLUTO","PLUTON - one love"));
-        System.out.println(planetDao.getAllPlanet());
 
+//        ticketCrudService.createTicket(new Ticket(clientCrudService.getClientById(12), "PLUTO", "VENUS"));
+
+        ticketCrudService.updateTicket(34, new Ticket(clientCrudService.getClientById(12), "VENUS", "EARTH"));
+
+
+
+//        ticketCrudService.deleteTicketById(25);
+//        ticketCrudService.deleteTicketById(26);
+
+        List<Ticket> ticketCrudServicelist = new TicketCrudService().getAllTickets();
+        for (Ticket ticket : ticketCrudServicelist) {
+            System.out.println(ticket);
+        }
+
+
+//        ticketCrudService.createTicket(new Ticket(12, "PLUTO", "VENUS"));
 
     }
 

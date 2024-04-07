@@ -2,6 +2,7 @@ package connections;
 
 import entity.Client;
 import entity.Planet;
+import entity.Ticket;
 import org.flywaydb.core.Flyway;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
@@ -16,6 +17,7 @@ public class HibernateUtils {
         this.sessionFactory = new Configuration()
                 .addAnnotatedClass(Client.class)
                 .addAnnotatedClass(Planet.class)
+                .addAnnotatedClass(Ticket.class)
                 .buildSessionFactory();
 
         flywayMigration(PropertyReader.getConnectionUrlForPostgres(),

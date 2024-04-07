@@ -7,8 +7,6 @@ P
  src/main/java/entity/Planet.java,4/e/4ec750d843c6babd23c123517ac323ffd1f19abb
 ^
 .src/main/java/connections/ConnectionsToDB.java,3/5/35b4a01d1c5e0389ce3feac1ee4681c8dce3d408
-P
- src/main/java/enums/Planets.java,b/b/bbdd364714ce29b2333711f5c4971c7ea6737105
 ]
 -src/main/java/connections/HibernateUtils.java,0/1/0171ac6771fe5fcdbfe48a153232205e91fb3b23
 G
@@ -21,19 +19,19 @@ P
  src/main/java/entity/Ticket.java,5/f/5f2dbc7fdf04f74ddeb3a7986c81a4a8472c3693
 ]
 -src/main/java/connections/PropertyReader.java,c/1/c18e98e104444889bdee106c4aa1d5e23c45838d
-U
-%src/main/java/crud/ClientDaoImpl.java,9/e/9e5ca4f5fb9d659596f62aa1c39b9f1a11c6f726
 Y
 )src/main/java/dao_intrface/ClientDao.java,e/a/ea639ce111ef71386ed28d6fae9be2b10f0ea353
 _
 /src/main/java/connections/InitialiseFlyWay.java,5/e/5e3ec57728bd584dd9e0bbbdeafe3fcdb0935752
 Y
 )src/main/java/dao_intrface/PlanetDAO.java,9/7/971967b5dd7a1f295700066c83685c5cc6710699
-U
-%src/main/java/crud/PlanetDaoImpl.java,1/b/1b74995916f08e9c9ad70bbbc0310bb645030f4d
 Y
 )src/main/java/dao_intrface/PlanetDao.java,8/a/8ab4fa979d936cf72867a7937c2f718af0c51206
 Y
 )src/main/java/crud/ClientCrudService.java,e/9/e9d662dcf4809e3d9bbc6bdff653b2f5f0eab907
 Y
 )src/main/java/crud/PlanetCrudService.java,2/8/28e1d2c3095c07fbf1331c6ffd50d757ba128b1e
+Y
+)src/main/java/dao_intrface/TicketDao.java,a/3/a3d5712bfe07a79412118c881c522a0a71dd93f8
+Y
+)src/main/java/crud/TicketCrudService.java,3/f/3f57a121ffe86cedf7b8f5f350f12bf4c23e8058

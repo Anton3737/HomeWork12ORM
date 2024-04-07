@@ -1,4 +1,7 @@
 
-›	java:S116"TRename this field "client_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÊñüÿÿÿÿ8µï³ãè1J$e3a40c87-36f7-4b38-a159-2f998669b068
-›	java:S116"YRename this field "from_planet_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üˆÂ¶8¶ï³ãè1J$5bbfcc96-ce63-40de-96c5-8c75b9920dc7
-™	java:S116"WRename this field "to_planet_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÀàë8¶ï³ãè1J$1999fbb5-7971-4973-963d-0ca8792a45f7
+˜	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÉşüÿÿÿÿ8ªÍÎÎë1J$8d7dec51-3843-4d52-bd75-39eec53b781d
+˜	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÉşüÿÿÿÿ8ªÍÎÎë1J$1c3d3a2b-389d-4a47-ada2-c33e68209bf9
+“	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¿Åî8çúõÎë1J$93a80685-88a1-40eb-a61e-e930b1d2be0b
+“	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¿Åî8çúõÎë1J$e62a7af0-91a3-4e62-bd9b-819d0571ab02
+›	java:S116"YRename this field "from_planet_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘«ü˜8®ÍÎÎë1J$6289f609-79e3-4673-bb75-0782174a6467
+™	java:S116"WRename this field "to_planet_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÛèı8®ÍÎÎë1J$7b04ed7a-9553-4987-88b3-bdd588bd074f
