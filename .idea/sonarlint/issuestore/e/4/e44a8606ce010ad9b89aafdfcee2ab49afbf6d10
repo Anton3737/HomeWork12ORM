@@ -1,27 +1,32 @@
 
 ¦
-java:S1488S"^Immediately return this expression instead of assigning it to the temporary variable "client".(ò¨Òäøÿÿÿÿ8şõ£Ïë1J$0ea049a3-f966-4315-a0df-d115d29d800b
+java:S1488S"^Immediately return this expression instead of assigning it to the temporary variable "client".(ò¨Òäøÿÿÿÿ8şõ£Ïë1J$499af49d-1b33-423f-9c69-73f4f3ab55ca
 ¦
-java:S1488Y"^Immediately return this expression instead of assigning it to the temporary variable "planet".(¶ìÚÎûÿÿÿÿ8ÿõ£Ïë1J$2cb5ca4f-2ad7-44e4-9761-5a464a77501f
+java:S1488Y"^Immediately return this expression instead of assigning it to the temporary variable "planet".(¶ìÚÎûÿÿÿÿ8ÿõ£Ïë1J$54ad3832-4922-460f-9f1c-cefcb3d3aad2
 ]
-java:S1220""Move this file to a named package.8ÿõ£Ïë1J$60e7182b-db0b-4d81-b85f-98fbda4d3c3d
+java:S1220""Move this file to a named package.8ÿõ£Ïë1J$fb1cde6c-c31b-4511-ab34-3e104f1aac27
+ˆ
+java:S18544"ERemove this useless assignment to local variable "ticketCrudService".(ŠöÚò8˜‡½Ïë1J$fb0d2b63-56dd-4975-8f2b-629150240d46
 z
-java:S1854"7Remove this useless assignment to local variable "dao".(»ÿ÷ü8ƒö£Ïë1J$afdb54f4-7be6-4592-88e1-64ba38a01c8f
+java:S1854"7Remove this useless assignment to local variable "dao".(»ÿ÷ü8ƒö£Ïë1J$c403163d-ffed-4a3d-9313-d76ee6b93de8
 k
-java:S1481"(Remove this unused "dao" local variable.(»ÿ÷ü8…ö£Ïë1J$3950a96a-af3b-4587-8d29-dfc98f68ff57
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(ï™ò¾üÿÿÿÿ8…ö£Ïë1J$b34d3776-0779-475b-90ad-39610325f73d
-r	java:S106<"+Replace this use of System.out by a logger.( §³ÿÿÿÿÿ8†ö£Ïë1J$62f21e90-e4b8-4bd9-a35a-7a3bbdf5c035
-~	java:S1257"<This block of commented-out lines of code should be removed.(—Ñı8†ö£Ïë1J$65cac3cf-0e32-4ee5-8892-0054f4bb8877
-ƒ	java:S125;"<This block of commented-out lines of code should be removed.(»çñüÿÿÿÿ8†ö£Ïë1J$d706bead-0a93-4bc6-b8de-33b1ef906d38
-~	java:S125?"<This block of commented-out lines of code should be removed.(éü‹»8‡ö£Ïë1J$6a21feef-cdc4-4e07-b9e7-21725873e762
-ƒ	java:S125E"<This block of commented-out lines of code should be removed.(Ë˜şÿÿÿÿ8‡ö£Ïë1J$c8c47bfc-59bd-4253-bbbd-1963e305490a
-r	java:S106J"+Replace this use of System.out by a logger.(ÏÄ¥‚úÿÿÿÿ8ˆö£Ïë1J$615c2a61-cd53-4753-94ee-1f5ed1b3859a
-~	java:S125N"<This block of commented-out lines of code should be removed.(èúÇâ8ˆö£Ïë1J$43ef2f5d-e4e9-448e-9db8-9250eb12042b
-U
-java:S1128"3Remove this unused import 'crud.PlanetCrudService'.(Ì€´Êùÿÿÿÿ8“î°Ïë1
-V
-java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8“î°Ïë1
+java:S1481"(Remove this unused "dao" local variable.(»ÿ÷ü8…ö£Ïë1J$8108c581-b91a-4f50-b176-d4e92d23a390
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ï™ò¾üÿÿÿÿ8…ö£Ïë1J$511a6f22-f07f-48cd-baae-392c821f427b
+y
+java:S14814"6Remove this unused "ticketCrudService" local variable.(ŠöÚò8›‡½Ïë1J$12d34515-8a34-43c5-8f28-2be5fb252253
+r	java:S106<"+Replace this use of System.out by a logger.( §³ÿÿÿÿÿ8†ö£Ïë1J$c8bb9272-3e18-417c-b67a-b62a427e463c
+~	java:S1257"<This block of commented-out lines of code should be removed.(—Ñı8†ö£Ïë1J$3eff60de-53d3-4010-8981-add35c49979c
+ƒ	java:S125;"<This block of commented-out lines of code should be removed.(»çñüÿÿÿÿ8†ö£Ïë1J$b4a1be52-9ced-475a-992d-f967e54cb99a
+~	java:S125?"<This block of commented-out lines of code should be removed.(éü‹»8‡ö£Ïë1J$7f7160e5-1359-407a-8600-bb99a8b1f6c7
+~	java:S125A"<This block of commented-out lines of code should be removed.(Ã¥ˆ»8œ‡½Ïë1J$8dc15d5a-c107-4dee-9f3a-8329c6454827
+ƒ	java:S125E"<This block of commented-out lines of code should be removed.(Ë˜şÿÿÿÿ8‡ö£Ïë1J$231f8908-bc44-4c1e-a984-82fe0c98ea0f
+r	java:S106J"+Replace this use of System.out by a logger.(ÏÄ¥‚úÿÿÿÿ8ˆö£Ïë1J$04ff5ef0-b795-4d2b-9cb7-2cbfcfd7606c
+~	java:S125N"<This block of commented-out lines of code should be removed.(èúÇâ8ˆö£Ïë1J$8dab1057-33bb-4b33-9067-10cec846214e
+{
+java:S1128"3Remove this unused import 'crud.PlanetCrudService'.(Ì€´Êùÿÿÿÿ8“î°Ïë1J$c16567a2-76b5-4f58-af95-109a5e8a5c32
+|
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8“î°Ïë1J$18e66b5f-2f7e-48dd-928a-2235394b3194
 z
-java:S1144R"2Remove this unused private "prepareClient" method.(Œ§„ÿÿÿÿÿ8‰ö£Ïë1J$83f27d3c-7c90-44fd-b01c-5f6ec96c09c5
+java:S1144R"2Remove this unused private "prepareClient" method.(Œ§„ÿÿÿÿÿ8‰ö£Ïë1J$cfc5bd66-76d4-4b22-b443-db8e6445ac51
 u
-java:S1144X"2Remove this unused private "preparePlanet" method.(Ş‰Ââ8‰ö£Ïë1J$37abaa32-f01a-499f-a028-197c126b233a
+java:S1144X"2Remove this unused private "preparePlanet" method.(Ş‰Ââ8‰ö£Ïë1J$db487956-b28f-4b72-a73f-f9977246e28f

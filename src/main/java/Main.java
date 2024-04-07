@@ -62,7 +62,7 @@ public class Main {
 
 //        ticketCrudService.createTicket(new Ticket(clientCrudService.getClientById(12), "PLUTO", "VENUS"));
 
-        ticketCrudService.updateTicket(34, new Ticket(clientCrudService.getClientById(12), "VENUS", "EARTH"));
+//        ticketCrudService.updateTicket(34, new Ticket(clientCrudService.getClientById(12), "VENUS", "EARTH"));
 
 
 
